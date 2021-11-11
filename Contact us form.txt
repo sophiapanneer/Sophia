@@ -1,0 +1,17 @@
+<html>
+	<head>
+		<body>
+			<form>
+				<h2>Contact us</h2>
+				<fieldset>				
+					Full name: <input type="text" name="name" id="name" required><br></br>
+					Email ID: <input type="text" name="name" id="name" required><br></br>
+					Mobile number: <input type="text" name="name" id="name" required><br></br>
+					Message: <textarea rowspace="20" colspace="20"></textarea><br></br>
+					<input type="submit" value="Submit">
+				</fieldset>
+			</form>
+
+		</body>
+	</head>
+</html>
